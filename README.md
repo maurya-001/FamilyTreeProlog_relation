@@ -63,11 +63,10 @@ Custom Queries
 Finding All Parents:
 
 
-find_parents(Person, Parents).
+parents(Person, Parents).
 Finding All Grandparents:
 
-
-find_grandparents(Person, Grandparents).
+grandparents(Person, Grandparents).
 Finding All Cousins:
 
 find_cousins(Person, Cousins).
